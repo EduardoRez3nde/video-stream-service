@@ -1,7 +1,7 @@
 
 # Stream Video App
 
-Este é um projeto de aplicação de streaming de vídeo desenvolvido com Spring Boot e Docker. Ele a reprodução de vídeos no navegador, com suporte para armazenamento local.
+Este é um projeto de aplicação de streaming de vídeo desenvolvido com Spring Boot e Docker. Reprodução de vídeos no navegador, com suporte para armazenamento local.
 
 ---
 
