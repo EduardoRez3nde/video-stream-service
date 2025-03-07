@@ -1,0 +1,5 @@
+com/project/stream/service/VideoStreamingService.class
+com/project/stream/StreamApplication.class
+com/project/stream/controller/VideoController.class
+com/project/stream/service/exceptions/ResourceNotFoundException.class
+com/project/stream/service/exceptions/DatabaseException.class

@@ -1,0 +1,5 @@
+/home/eduardo/Documents/workspace/stream/src/main/java/com/project/stream/StreamApplication.java
+/home/eduardo/Documents/workspace/stream/src/main/java/com/project/stream/controller/VideoController.java
+/home/eduardo/Documents/workspace/stream/src/main/java/com/project/stream/service/VideoStreamingService.java
+/home/eduardo/Documents/workspace/stream/src/main/java/com/project/stream/service/exceptions/DatabaseException.java
+/home/eduardo/Documents/workspace/stream/src/main/java/com/project/stream/service/exceptions/ResourceNotFoundException.java

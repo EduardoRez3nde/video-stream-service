@@ -1,0 +1,21 @@
+services:
+
+  app:
+    image: stream-video-app:latest
+    build:
+      context: .
+    volumes:
+      - /home/eduardo/Documents/workspace/stream/uploads/videos:/app/uploads/videos
+
+    container_name: stream-video-app
+    ports:
+      - "8080:8080"
+    networks:
+      - learn-network
+
+networks:
+  learn-network:
+    driver: bridge
+
+volumes:
+  postgres_data:
